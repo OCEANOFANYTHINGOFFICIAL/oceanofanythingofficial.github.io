@@ -1,0 +1,109 @@
+/* default theme colors */
+.theme-default-color-primary {
+    color: #d2691e !important;
+}
+
+.theme-default-color-secondary {
+    color: #b85c1b !important;
+}
+
+.theme-default-color-medium {
+    color: #814012 !important;
+}
+
+.theme-default-color-light {
+    color: #db6f22 !important;
+}
+
+
+/* default theme background colors */
+.theme-default-background-color-primary {
+    background-color: #d2691e !important;
+    color: #fff;
+}
+
+.theme-default-background-color-secondary {
+    background-color: #b85c1b !important;
+    color: #fff;
+}
+
+.theme-default-background-color-medium {
+    background-color: #814012 !important;
+    color: #fff;
+}
+
+.theme-default-background-color-light {
+    background-color: #db6f22 !important;
+    color: #fff;
+}
+
+
+/* main utilils */
+.max-width {
+    max-width: 1300px;
+    padding: 0 80px;
+    margin: auto;
+}
+
+.invisible {
+    display: none !important;
+}
+
+.r-none {
+    resize: none !important;
+}
+
+.mg-3 {
+    margin: 3px !important;
+}
+
+.mg-m-8 {
+    margin: -8px !important;
+}
+
+.mg-top-3 {
+    margin-top: 3px !important;
+}
+
+.mg-bt-3 {
+    margin-bottom: 1rem !important;
+}
+
+.mg-top-5 {
+    margin-top: 1rem !important;
+}
+
+.mg-bt-5 {
+    margin-bottom: 5rem !important;
+}
+
+/* color utils */
+
+.cl-black {
+    color: black !important;
+}
+
+.bg-black {
+    background-color: black !important;
+}
+
+.cl-white {
+    color: white !important;
+}
+
+.bg-white {
+    background-color: white !important;
+}
+
+/* sizing utils */
+.fs-20 {
+    font-size: 20px !important;
+}
+
+.fs-14 {
+    font-size: 14px !important;
+}
+
+.hg-30 {
+    height: 30px !important;
+}

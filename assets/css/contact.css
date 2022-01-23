@@ -1,0 +1,49 @@
+@import url("https://cdn.jsdelivr.net/gh/OCEANOFANYTHINGOFFICIAL/fontawesome-pro-5.15.3/css/all.min.css");
+@import url("../fonts/fonts.min.css");
+body{
+    overflow: hidden;
+    background-color: #d2691e !important;
+}
+input{
+    border: 2px solid #d2691e !important;
+}
+.banner{
+    padding-top: 23px;
+}
+footer {
+    font-family: 'Poppins', sans-serif;
+    background: #111;
+    padding: 15px 23px;
+    color: #fff;
+    text-align: center;
+}
+
+footer span a {
+    text-decoration: none;
+}
+
+footer span a:hover {
+    text-decoration: underline;
+}
+.invisible{
+    display: none;
+    visibility: hidden;
+}
+label{
+    color: #fff !important;
+}
+input:focus{
+    border: 2px solid #814012 !important;
+}
+input::selection{
+    border: 2px solid #814012 !important;
+}
+textarea:focus{
+    border: 1px solid #814012 !important;
+}
+textarea::selection{
+    border: 1px solid #814012 !important;
+}
+#contactInformationSubmittedFooter > div > button{
+    border: 2px solid white !important;
+}

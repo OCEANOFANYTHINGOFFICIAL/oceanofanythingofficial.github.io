@@ -1,0 +1,6 @@
+img{
+    pointer-events: none;
+}
+.strict-img-protect{
+    pointer-events: none !important;
+}
