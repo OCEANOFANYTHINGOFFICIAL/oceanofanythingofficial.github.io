@@ -3,4 +3,4 @@ setTimeout(function () {
     setTimeout(function () {
         document.querySelector("body").style.overflow = "auto"
     })
-}, 1500);
+}, 1900);

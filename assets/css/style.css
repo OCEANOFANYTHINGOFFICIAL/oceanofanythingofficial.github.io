@@ -279,7 +279,11 @@ section .title::after {
 
 .services .title::after, .teams .title::after {
     background: #111;
-    content: "what i provide";
+    content: "What I Provide";
+}
+
+.services .title-after-text::after {
+    content: "What I Provide";
 }
 
 .services .serv-content .card {
@@ -899,6 +903,11 @@ footer span a:hover {
         padding: 0 23px;
     }
 
+    #services>div>h2 {
+        display: block;
+        padding-bottom: 4rem;
+    }
+
     .home .home-content .text-2 {
         font-size: 60px;
     }
@@ -919,6 +928,11 @@ footer span a:hover {
 @media (max-width: 500px) {
     .home .home-content .text-2 {
         font-size: 50px;
+    }
+
+    #services>div>h2 {
+        display: block;
+        padding-bottom: 4rem;
     }
 
     .home .home-content .text-3 {
